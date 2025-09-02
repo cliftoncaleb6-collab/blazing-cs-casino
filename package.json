@@ -1,0 +1,13 @@
+{
+  "name": "blazing-cs-casino",
+  "version": "1.0.0",
+  "description": "Blazing C's Casino Demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
